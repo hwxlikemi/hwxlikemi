@@ -8,13 +8,8 @@
 
 ## 
 
-<div>
-  <a href="https://github.com/hwxlikemi">
-    <img src="https://streak-stats.demolab.com?user=hwxlikemi&theme=tokyonight&hide_border=true&border_radius=5&locale=zh_Hans&card_width=700" alt="QAQ">
-  </a>
-</div>
 
-<br />
+[![GitHub Streak](https://streak-stats.demolab.com?user=hwxlikemi&theme=dark&hide_border=%E5%81%87&border_radius=5&locale=zh_Hans&mode=weekly)](https://github.com/hwxlikemi) 
 
 <div>
   <a href="https://github.com/hwxlikemi">
