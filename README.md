@@ -11,7 +11,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hwxlikemi&theme=dark&hide_border=%E5%81%87&border_radius=5&locale=zh_Hans&mode=weekly)](https://github.com/hwxlikemi) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwxlikemi)](https://github.com/hwxlikemi)
+
 
 <div>
   <a href="https://github.com/hwxlikemi">
@@ -19,3 +19,5 @@
   </a>
 </div>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwxlikemi)](https://github.com/hwxlikemi)
