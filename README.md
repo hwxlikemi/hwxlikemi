@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h3>永远相信美好的事情即将发生。</h3>
+  <h1>永远相信美好的事情即将发生。</h1>
   <h4>Always believe that something wonderful is about to happen. </h4>
 </div>
 
