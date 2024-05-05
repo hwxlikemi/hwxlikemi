@@ -11,6 +11,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hwxlikemi&theme=dark&hide_border=%E5%81%87&border_radius=5&locale=zh_Hans&mode=weekly)](https://github.com/hwxlikemi) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
   <a href="https://github.com/hwxlikemi">
     <img src="https://github-readme-stats-neon-psi-82.vercel.app/api?username=hwxlikemi&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" alt="QAQ">
