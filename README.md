@@ -36,7 +36,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hwxlikemi&repo=mfp" />
 </a>
 <a href="https://hwxlikemi.github.io/blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hwxlikemi&repo=blog" />
+  <img align="center" src="https://raw.kkgithub.com/hwxlikemi/hwxlikemi/main/Screenshot_2024-07-25-13-02-58-520_com.microsoft.emmx.png" />
 </a>
 
 
