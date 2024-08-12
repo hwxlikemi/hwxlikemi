@@ -1,7 +1,7 @@
 
 <div align="center">
-  <h3>永远相信美好的事情即将发生。</h3>
-  <h5>Always believe that something wonderful is about to happen. </h5>
+  <h3>等咱有了钱，豆浆买两碗，喝一碗，倒一碗！</h3>
+  <h5>When we have money, we will buy two bowls of soy milk, drink one bowl, and pour one bowl! </h5>
 </div>
 
 <br />
