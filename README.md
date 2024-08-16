@@ -1,7 +1,7 @@
 
 <div align="center">
-  <h3>等咱有了钱，豆浆买两碗，喝一碗，倒一碗！</h3>
-  <h5>When we have money, we will buy two bowls of soy milk, drink one bowl, and pour one bowl! </h5>
+  <h3>长大后，我们更喜欢童话，因为只有在童话里，善恶到头终有报，努力的人都会得到幸福。</h3>
+  <h5>When we grow up, we prefer fairy tales, because only in fairy tales, good and evil will be rewarded in the end, and those who work hard will be happy.</h5>
 </div>
 
 <br />
